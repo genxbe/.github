@@ -1,5 +1,6 @@
 GeNx is a creative / digital studio specialised in web hosting, webdesign, web development and creating creative and digital solutions — Based in Antwerp, Belgium.
 
+<div>
 <svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
         <foreignObject width="100%" height="100%">
             <div xmlns="http://www.w3.org/1999/xhtml">
@@ -44,5 +45,6 @@ GeNx is a creative / digital studio specialised in web hosting, webdesign, web d
             </div>
         </foreignObject>
     </svg>
+</div>
 
 <div><br><a href="https://getkirby.com/partners/genx" title="Visit my partner profile"><img height="60em" src="https://static.gnx.cloud/genx/kirby/kirby-certified-partner-black.svg"/></a><br><br></div>
