@@ -1,1 +1,1 @@
-<a href="https://getkirby.com/partners/genx” title="Visit my partner profile"><img width="162px" src="https://static.gnx.cloud/genx/kirby/kirby-certified-partner-black.svg"/></a>
+<div><br><a href="https://getkirby.com/partners/genx" title="Visit my partner profile"><img height="60em" src="https://static.gnx.cloud/genx/kirby/kirby-certified-partner-light.svg"/></a><br><br></div>
